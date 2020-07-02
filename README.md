@@ -1,4 +1,4 @@
-### Brandon Khek!
+### Brandon's GitHub!
 
 <!--
 **bnkrandon/bnkrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
